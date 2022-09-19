@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Ruben.
 I am a student currently studying C and C++ at **42 Codam** in Amsterdam 🖥.
 
-[![rvan-mee's 42 stats](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/stats?cursusId=21&coalitionId=58)](https://github.com/JaeSeoKim/badge42)
+[![rvan-mee's 42 stats](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/stats?cursusId=21&coalitionId=58)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Below are all my of project grades ✅: 
 
