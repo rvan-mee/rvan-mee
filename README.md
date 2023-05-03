@@ -5,6 +5,8 @@ I am a student currently studying C and C++ at **42 Codam** in Amsterdam 🖥.
 
 Below are all my of project grades ✅: 
 
+- **miniRT:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![rvan-mee's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/project/2777189)](https://github.com/rvan-mee/miniRT)
+
 - **philosophers:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![rvan-mee's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/project/2666768)](https://github.com/rvan-mee/Philosophers) 
 
 - **minishell:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![rvan-mee's 42 minishell Score](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/project/2594006)](https://github.com/SietseVos/minishell)
