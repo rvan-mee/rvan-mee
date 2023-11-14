@@ -1,6 +1,29 @@
 ### Hi there 👋 my name is Ruben.
 I am a student currently studying C and C++ at **42 Codam** in Amsterdam 🖥.
 
+Below are direct links to all of my Codam projects ✅: 
+
+- **ft_transcendence:** https://github.com/rvan-duy/42-transcendence
+
+- **miniRT:** https://github.com/rvan-mee/miniRT
+
+- **philosophers:** https://github.com/rvan-mee/Philosophers
+
+- **minishell:** https://github.com/SietseVos/minishell
+
+- **minitalk:** https://github.com/rvan-mee/minitalk
+
+- **push_Swap:** https://github.com/rvan-mee/push_swap
+
+- **fract-ol:** https://github.com/rvan-mee/fract-ol
+
+- **ft_printf:** https://github.com/rvan-mee/printf
+
+- **get_next_line:** https://github.com/rvan-mee/get_next_line
+
+- **libft:** https://github.com/rvan-mee/Libft
+
+<!--
 [![rvan-mee's 42 stats](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/stats?cursusId=21&coalitionId=58)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Below are all my of project grades ✅: 
@@ -23,7 +46,7 @@ Below are all my of project grades ✅:
 
 - **get_next_line:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![rvan-mee's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/project/2389947)](https://github.com/rvan-mee/get_next_line)
 
-- **libft:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![rvan-mee's 42 Libft Score](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/project/2365164)](https://github.com/rvan-mee/Libft)
+- **libft:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![rvan-mee's 42 Libft Score](https://badge42.vercel.app/api/v2/cl69mwa81019009k4fcmo62kd/project/2365164)](https://github.com/rvan-mee/Libft) ->>
 
 <!--
 **rvan-mee/rvan-mee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
